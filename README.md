@@ -16,7 +16,7 @@ To run this project, you need to have Python installed along with the `pygame` l
 
 You can play the Snake Game online without downloading it by following this link:
 
-[Play Snake Game on Replit](https://replit.com/@yourusername/snake-game)
+[Play Snake Game on Replit](https://replit.com/@jonathanjulius6/snakegame)
 
 
 ### Prerequisites
