@@ -12,10 +12,17 @@ This is a classic Snake Game implemented in Python using the `pygame` library. C
 ## Requirements
 To run this project, you need to have Python installed along with the `pygame` library.
 
+## Play the Game Online
+
+You can play the Snake Game online without downloading it by following this link:
+
+[Play Snake Game on Replit](https://replit.com/@yourusername/snake-game)
+
+
 ### Prerequisites
 
 - **Python 3.x**
 - **pygame**: You can install pygame via pip:
-
+  
 ```bash
 pip install pygame
